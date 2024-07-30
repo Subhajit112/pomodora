@@ -14,8 +14,6 @@ reps = 0
 
 #functions
 
-def countdown_reset():
-    pass
     
 def countdown_start():
     global reps
